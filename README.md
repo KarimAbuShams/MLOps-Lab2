@@ -1,6 +1,6 @@
 [![CICD](https://github.com/KarimAbuShams/MLOps-Lab2/actions/workflows/CICD.yml/badge.svg)](https://github.com/KarimAbuShams/MLOps-Lab2/actions/workflows/CICD.yml)
 
-# MLOps-Lab1-demo
+# MLOps-Lab2
 
 Demo for the first lab of the MLOps subject. In this lab you have to learn
 * To program the logic of an application.
